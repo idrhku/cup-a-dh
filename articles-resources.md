@@ -4,7 +4,8 @@
 The Origins of Pharmacology in the 16th Century
 Norton,S.
 Molecular Interventions(2005),5(3):144
-http://dx.doi.org/10.1124/mi.5.3.2
+http://dx.doi.org/10.1124/mi.5.3.
+(available via CLOCKSS)
 
 Stata Norton Ringle and her work: photos
 https://www.flickr.com/photos/kulibraries/sets/72157634695046274/
