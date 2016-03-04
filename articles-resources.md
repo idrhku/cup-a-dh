@@ -1,6 +1,5 @@
 ## Link to our Omeka Project Site: http://idrhku.org/cupadh/
 
-***
 
 ## Articles & Resources
 
