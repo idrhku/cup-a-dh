@@ -20,3 +20,5 @@ http://www.kumc.edu/news-listing-page/sj-enna-and-stata-norton.html
 
 16th-century Medicine for the Fascination of 21st-century Audiences
 http://blogs.lib.ku.edu/spencer/tag/jesuatti-book-of-remedies/
+
+Twitterbot: 16th C. Medicine: https://twitter.com/16th_c_medicine
